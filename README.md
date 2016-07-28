@@ -6,28 +6,22 @@
 
 - [linux](https://git.kernel.org/cgit/) [(github)](https://github.com/torvalds/linux)
 - [android](https://android.googlesource.com/)
-- [freebsd](ftp://ftp.freebsd.org/pub/FreeBSD)
+- [freebsd](http://ftp.freebsd.org/pub/FreeBSD)
 
 ### Compiler
 
-- [gcc](ftp://ftp.gnu.org/gnu/gcc/)
+- [gcc](http://ftp.gnu.org/gnu/gcc/)
 - [clang](http://llvm.org/svn/llvm-project/cfe/trunk/)
 - [ghc](https://github.com/ghc/ghc)
 
 ### Script
 
 - [lua](http://www.lua.org/ftp/)
-
 - [python](https://www.python.org/downloads/source/)
-
 - [nodejs](https://nodejs.org/en/download/)
-
 - [bash](http://ftp.gnu.org/gnu/bash/)
-
 - [perl](https://www.perl.org/get.html)
-
 - [ruby](http://svn.ruby-lang.org/repos/ruby/trunk)
-
 - [erlang](http://www.erlang.org/downloads)
 
 ### Functional
@@ -122,4 +116,3 @@
 
 - [activemq](http://archive.apache.org/dist/activemq/)
 - [rabbitmq](https://github.com/rabbitmq/rabbitmq-server)
-
